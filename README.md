@@ -1,2 +1,4 @@
 # jajanken
-jajanken multiplayer game
+jajanken (Rock-Paper-Scissors) multiplayer game
+
+
