@@ -1,5 +1,10 @@
-# jajanken
+# jajanken (my server Exercise)
+
 jajanken (Rock-Paper-Scissors) multiplayer game
 
-my server Exercise
+u can play from there ↓
+
+https://jajankenn.herokuapp.com/
+
+
 
