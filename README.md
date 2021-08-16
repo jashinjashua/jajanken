@@ -1,6 +1,6 @@
 # jajanken (my server Exercise)
 
-jajanken (Rock-Paper-Scissors) multiplayer game
+jajanken (Rock-Paper-Scissors) multiplayer test game
 
 u can play from there ↓
 
